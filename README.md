@@ -30,7 +30,7 @@
 
 - :zap: In my free time, I study English,go to the gym and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SaintZet-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/serhii-chepets-412b46223/))
+- :mailbox:How to reach me:  [![LinkedIn](https://img.shields.io/badge/-SaintZet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-chepets-412b46223/)
   
   ### :hammer_and_wrench: Languages and Tools :
 <div>
