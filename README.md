@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/saint.zet/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://t.me/SaintGK">
+  <a href="https://t.me/SaintZet">
     <img src="https://img.shields.io/badge/Telegram-lightgray?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
