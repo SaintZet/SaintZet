@@ -23,14 +23,14 @@
 </div>
   
 ### :man_technologist: About Me :
-  I am a backend **.NET** Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Ukraine :yellow_heart::blue_heart:
-  - :telescope: I’m working as a .NET Engineer in European company.
+  I am a backend **.NET** Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Ukraine :yellow_heart::blue_heart: Visit my portfolio - https://saintzet.github.io/portfolio/
+  - :telescope: I’m working as a **.NET Engineer** at **Plarium**. I am developing a server for the game **Raid: Shadow Legends**.
 
-- :seedling: I learn the path of Сlean Сode and Сlean Architecture.
+- :seedling: I learn the path of **Сlean Сode** and **Сlean Architecture**.
 
-- :zap: In my free time, I study English,go to the gym and read tech articles.
+- :zap: In my free time, I study **English**, go to the **gym** and read tech articles.
 
-- :mailbox:How to reach me:  [![LinkedIn](https://img.shields.io/badge/-SaintZet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-chepets-412b46223/)
+- :mailbox:How to reach me:  [![LinkedIn](https://img.shields.io/badge/-SaintZet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-chepets) or write on serhii.chepets@gmail.com
   
   ### :hammer_and_wrench: Languages and Tools :
 <div>
